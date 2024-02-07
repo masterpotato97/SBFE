@@ -9,6 +9,7 @@ interface PlayerInfo {
   pos: string;
   teamAbv: string;
   mlbHeadshot: string;
+  jerseyNum:string;
 }
 
 function MLB() {

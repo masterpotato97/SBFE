@@ -7,8 +7,9 @@ const token = 'dfa1e699135555a17f14fe002ae4bb7aed835519fa412048';
 interface PlayerInfo {
   longName: string;
   pos: string;
-  teamAbv: string;
+  team: string;
   nbaComHeadshot: string;
+  jerseyNum:string;
 }
 
 function NBA() {

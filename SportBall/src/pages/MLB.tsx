@@ -1,4 +1,3 @@
-import React from 'react'
 import MLB from '../components/MLB'
 
 function MLBPage() {
